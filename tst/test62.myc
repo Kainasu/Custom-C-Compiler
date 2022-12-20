@@ -1,0 +1,7 @@
+int incrementer (int n) {
+   return n+1;
+}
+
+int main () {
+   return (incrementer (3));
+ }

@@ -1,0 +1,12 @@
+int main () {
+  int x, y, z;
+  x = 1;
+  z = 3;
+  while (x<2) 
+  {
+    x = x + 1;
+    if (z<2) y=1;
+    else y=0;
+  }
+  return y;
+}

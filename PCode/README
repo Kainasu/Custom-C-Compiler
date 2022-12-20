@@ -1,0 +1,8 @@
+Le code cible a produire est du PCode. Il est ici codé en C.
+
+On trouve ici son codage et quelques exemples, de difficulté progressive, de compilation "à la main" de code myc en PCode.
+
+La fonction print_stack(), insérée ici ou là dans ce pcode, permet de tracer l'execution de ces exemples une fois compilés avec gcc.
+
+
+
